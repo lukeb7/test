@@ -1,0 +1,15 @@
+flask
+gunicorn
+uwsgi
+pandas
+numpy
+scipy
+joblib
+matplotlib
+xgboost
+typing
+PyWavelets
+sklearn
+keras
+tensorflow
+statsmodels
